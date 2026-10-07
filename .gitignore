@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+records.json
+shared_records.json
+reminders.json
+.streamlit/
